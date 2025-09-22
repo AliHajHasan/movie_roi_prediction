@@ -43,10 +43,5 @@ This project aims to **predict movie revenues** using machine learning technique
 
 ---
 
-## 🚀 How to Run  
 
-1. Clone the repository:  
-   ```bash
-   git clone https://github.com/yourusername/movie-income-prediction.git
-   cd movie-income-prediction
 
